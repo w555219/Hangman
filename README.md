@@ -51,11 +51,7 @@ hangman/
 ├── draft/           # Draft implementation
 │   └── draft.py
 ├── utils/           # Game logic
-│   └── game.py
-├── tests/           # Test files
-│   ├── __init__.py
-│   ├── test_setup.py
-│   └── test_game.py
+│   └── game.py  
 ├── main.py          # Entry point
 └── README.md        # This file
 ```
@@ -76,12 +72,12 @@ Below is a simple visual representation of the hangman that could be added to en
 
 ## Contributors
 
-- Your Name - Initial implementation
+- WASEEM ALNALOUTI
 
 ## Timeline
 
-- Project started: [Date]
-- Project completed: [Date]
+- Project started: [1/4/2025]
+- Project completed: [3/4/2025]
 
 ## Personal Situation
 
