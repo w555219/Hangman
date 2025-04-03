@@ -17,8 +17,8 @@ This project is a text-based implementation of the classic Hangman game. The pla
 ## Installation
 
 1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/hangman.git
+   ```[
+   git clone https://github.com/w555219/hangman.git
    ```
 
 2. Navigate to the project directory:
